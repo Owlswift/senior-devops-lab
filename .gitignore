@@ -2,3 +2,5 @@
 *.tfstate
 *.tfstate.*
 ./app/node_modules/
+github-actions-trust-policy.json
+github-actions-permissions.json
